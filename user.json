@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "1",
+      "deviceId": ""
+    },
+    {
+      "username": "user1", 
+      "password": "pass123",
+      "deviceId": "specific_device_id_optional"
+    }
+  ]
+}
